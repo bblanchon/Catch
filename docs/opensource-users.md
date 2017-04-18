@@ -16,6 +16,9 @@ Listing a project here does not imply endorsement and the plan is to keep these 
 
 ## Libraries & Frameworks
 
+### [ArduinoJson](https://bblanchon.github.io/ArduinoJson/)
+A simple and efficient JSON library for IoT.
+
 ### [Azmq](https://github.com/zeromq/azmq)
 Boost Asio style bindings for ZeroMQ
 
